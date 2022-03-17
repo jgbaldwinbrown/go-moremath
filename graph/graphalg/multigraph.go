@@ -4,7 +4,7 @@
 
 package graphalg
 
-import "github.com/aclements/go-moremath/graph"
+import "github.com/jgbaldwinbrown/go-moremath/graph"
 
 // SimplifyMulti simplifies a multigraph to a weighted simple graph.
 //

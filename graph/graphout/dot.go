@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aclements/go-moremath/graph"
+	"github.com/jgbaldwinbrown/go-moremath/graph"
 )
 
 // Dot contains options for generating a Graphviz Dot graph from a

@@ -7,7 +7,7 @@ package scale
 import (
 	"math"
 
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 type Linear struct {

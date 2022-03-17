@@ -7,7 +7,7 @@ package graphalg
 import (
 	"sort"
 
-	"github.com/aclements/go-moremath/graph"
+	"github.com/jgbaldwinbrown/go-moremath/graph"
 )
 
 // SCCFlags is a set of optional analyses to perform when constructing

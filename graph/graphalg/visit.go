@@ -5,7 +5,7 @@
 package graphalg
 
 import (
-	"github.com/aclements/go-moremath/graph"
+	"github.com/jgbaldwinbrown/go-moremath/graph"
 )
 
 // Euler visits a graph using an Euler tour.

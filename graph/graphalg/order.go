@@ -5,7 +5,7 @@
 package graphalg
 
 import (
-	"github.com/aclements/go-moremath/graph"
+	"github.com/jgbaldwinbrown/go-moremath/graph"
 )
 
 // PreOrder returns the nodes of g visited in pre-order.

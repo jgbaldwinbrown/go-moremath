@@ -31,7 +31,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/aclements/go-moremath/stats"
+	"github.com/jgbaldwinbrown/go-moremath/stats"
 )
 
 func main() {

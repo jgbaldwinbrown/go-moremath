@@ -4,7 +4,7 @@
 
 package graphalg
 
-import "github.com/aclements/go-moremath/graph"
+import "github.com/jgbaldwinbrown/go-moremath/graph"
 
 // IDom returns the immediate dominator of each node of g. Nodes that
 // don't have an immediate dominator (including root) are assigned -1.

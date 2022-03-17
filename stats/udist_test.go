@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/aclements/go-moremath/mathx"
+	"github.com/jgbaldwinbrown/go-moremath/mathx"
 )
 
 func aeqTable(a, b [][]float64) bool {

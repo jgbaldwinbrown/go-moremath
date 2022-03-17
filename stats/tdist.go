@@ -7,7 +7,7 @@ package stats
 import (
 	"math"
 
-	"github.com/aclements/go-moremath/mathx"
+	"github.com/jgbaldwinbrown/go-moremath/mathx"
 )
 
 // A TDist is a Student's t-distribution with V degrees of freedom.

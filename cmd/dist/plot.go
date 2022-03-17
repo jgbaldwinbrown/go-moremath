@@ -10,9 +10,9 @@ import (
 	"math"
 	"unicode/utf8"
 
-	"github.com/aclements/go-moremath/scale"
-	"github.com/aclements/go-moremath/stats"
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-moremath/scale"
+	"github.com/jgbaldwinbrown/go-moremath/stats"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 const (

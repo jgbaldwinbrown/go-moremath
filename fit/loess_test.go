@@ -7,7 +7,7 @@ package fit
 import (
 	"testing"
 
-	"github.com/aclements/go-moremath/internal/mathtest"
+	"github.com/jgbaldwinbrown/go-moremath/internal/mathtest"
 )
 
 func TestLOESS_NIST(t *testing.T) {

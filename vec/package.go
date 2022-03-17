@@ -3,4 +3,4 @@
 // license that can be found in the LICENSE file.
 
 // Package vec provides functions for float64 vectors.
-package vec // import "github.com/aclements/go-moremath/vec"
+package vec // import "github.com/jgbaldwinbrown/go-moremath/vec"

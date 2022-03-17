@@ -7,7 +7,7 @@ package stats
 import (
 	"math"
 
-	"github.com/aclements/go-moremath/mathx"
+	"github.com/jgbaldwinbrown/go-moremath/mathx"
 )
 
 // HypergeometicDist is a hypergeometric distribution.

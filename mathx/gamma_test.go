@@ -7,7 +7,7 @@ package mathx
 import (
 	"testing"
 
-	. "github.com/aclements/go-moremath/internal/mathtest"
+	. "github.com/jgbaldwinbrown/go-moremath/internal/mathtest"
 )
 
 func TestGammaInc(t *testing.T) {

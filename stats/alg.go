@@ -9,7 +9,7 @@ package stats
 import (
 	"fmt"
 
-	"github.com/aclements/go-moremath/mathx"
+	"github.com/jgbaldwinbrown/go-moremath/mathx"
 )
 
 func maxint(a, b int) int {

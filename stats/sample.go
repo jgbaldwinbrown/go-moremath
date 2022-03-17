@@ -8,7 +8,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 // Sample is a collection of possibly weighted data points.

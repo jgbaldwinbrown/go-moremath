@@ -9,8 +9,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/aclements/go-moremath/graph"
-	"github.com/aclements/go-moremath/graph/graphout"
+	"github.com/jgbaldwinbrown/go-moremath/graph"
+	"github.com/jgbaldwinbrown/go-moremath/graph/graphout"
 )
 
 type sccTest struct {

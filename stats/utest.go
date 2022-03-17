@@ -8,7 +8,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/aclements/go-moremath/mathx"
+	"github.com/jgbaldwinbrown/go-moremath/mathx"
 )
 
 // A LocationHypothesis specifies the alternative hypothesis of a

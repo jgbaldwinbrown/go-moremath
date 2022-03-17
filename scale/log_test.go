@@ -9,8 +9,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/aclements/go-moremath/internal/mathtest"
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-moremath/internal/mathtest"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 func TestLog(t *testing.T) {

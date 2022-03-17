@@ -8,7 +8,7 @@
 // Currently stats is fairly small, but for what it does implement, it
 // focuses on high quality, fast implementations with good, idiomatic
 // Go APIs.
-package stats // import "github.com/aclements/go-moremath/stats"
+package stats // import "github.com/jgbaldwinbrown/go-moremath/stats"
 
 import (
 	"errors"

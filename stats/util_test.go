@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aclements/go-moremath/internal/mathtest"
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-moremath/internal/mathtest"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 var aeq = mathtest.Aeq

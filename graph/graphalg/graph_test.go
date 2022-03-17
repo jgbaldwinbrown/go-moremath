@@ -4,7 +4,7 @@
 
 package graphalg
 
-import "github.com/aclements/go-moremath/graph"
+import "github.com/jgbaldwinbrown/go-moremath/graph"
 
 // Example graph from Muchnick, "Advanced Compiler Design &
 // Implementation", figure 8.21.
